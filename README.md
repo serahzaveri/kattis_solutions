@@ -1,6 +1,9 @@
-# kattis_solutions
+# Kattis Solutions
 Kattis is a website for competitive programming problems. <br/>
-Each package in src conatins the solution to a different kattis problem. 
+Each package in src contains the solution to a different problem. <br/>
+
+For any help or clarification, feel free to reach out! <br/>
+Email: serah.zaveri@mail.mcgill.ca
 
 ### Questions Solved on Kattis
 
