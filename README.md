@@ -6,8 +6,8 @@ Each package in src conatins the solution to a different kattis problem.
 
 Name  | Question | Answer
 ------------- | ------------- | -------------
-Bobby's Bet  | https://open.kattis.com/problems/bobby | [GitHub] (https://github.com/serahzaveri/kattis_solutions/blob/master/src/BobbysBet/BobbysBet.java)
-Flexible Spaces  | https://open.kattis.com/problems/flexible | https://github.com/serahzaveri/kattis_solutions/blob/master/src/FlexibleSpaces/FlexibleSpaces.java
+Bobby's Bet  | https://open.kattis.com/problems/bobby | [GitHub(https://github.com/serahzaveri/kattis_solutions/blob/master/src/BobbysBet/BobbysBet.java)
+Flexible Spaces  | https://open.kattis.com/problems/flexible | [a link](https://github.com/serahzaveri/kattis_solutions/blob/master/src/FlexibleSpaces/FlexibleSpaces.java)
 Oddities | https://open.kattis.com/problems/oddities | https://github.com/serahzaveri/kattis_solutions/blob/master/src/Oddities/Oddities.java
 Cold-puter Science | https://open.kattis.com/problems/cold | https://github.com/serahzaveri/kattis_solutions/blob/master/src/ColdPuterScience/coldPuterScience.java
 Quick Brown Fox | https://open.kattis.com/problems/quickbrownfox | https://github.com/serahzaveri/kattis_solutions/blob/master/src/QuickBrownFox/quickBrownFox.java
